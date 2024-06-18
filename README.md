@@ -1,4 +1,4 @@
-## Hello, my name is <a href="https://x.com/hhugoowszz" target=_blank>Victor</a> and I am currently studying front-end and I will work in this area.
+## Hello, my name is <a  href="https://x.com/hhugoowszz" target=_blank >Victor</a> and I am currently studying front-end and I will work in this area.
 
 <div>
   <a href="https://github.com/hugoowszz">
