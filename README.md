@@ -1,4 +1,4 @@
-## Hello, my name is Victor Hugo and I am currently studying front-end.
+## Hello, my name is Victor Hugo and I am currently studying at infnet college .
 
 <div>
   <a href="https://github.com/hugoowszz">
