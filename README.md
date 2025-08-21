@@ -2,7 +2,6 @@
 
 <div>
   <a href="https://github.com/hugoowszz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoowszz&layout=compact"/>
 </div>
 
 <h1>Studying in this moment:</h1>
