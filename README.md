@@ -10,6 +10,13 @@
   <img align="center" alt="Hugo-Js" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
   <img align="center" alt="Hugo-Js" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Hugo-Js" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Hugo-Js" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
+  <img align="center" alt="Hugo-Js" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg">
+  <img align="center" alt="Hugo-Js" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="Hugo-Js" height="80" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-plain-wordmark.svg">
+  
+  
+      
 </div>
 <h1>My technologies</h1>
 <div style="display: inline_block"><br>
