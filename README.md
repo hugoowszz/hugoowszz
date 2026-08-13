@@ -81,7 +81,7 @@ const Victor = {
 <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.victorhrsantos.vercell.app">
+<a href="https://www.victorhrsantos.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
