@@ -18,19 +18,17 @@ const Victor = {
  location: "Minas Gerais, Brazil 🇧🇷",
 
  stack: {
-    frontend: [
-      "JavaScript",
-      "HTML",
-      "CSS",
-      "TailwindCSS"
-    ],
-
     backend: [
       "Java",
       "Spring",
       "JUnit",
       "Mockito",
       "Python"
+    ],
+
+    frontend: [
+      "JavaScript",
+      "TailwindCSS"
     ],
 
     database: [
